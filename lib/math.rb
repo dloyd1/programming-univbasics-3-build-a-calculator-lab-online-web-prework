@@ -27,4 +27,3 @@ def square_root(num)
   puts value_sqrt
 end
 
-addition(2,3)
