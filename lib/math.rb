@@ -3,8 +3,7 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  value_sub = num1 - num2
-  value_sub
+  num1 - num2
 end
 
 def division(num1, num2)
